@@ -1,6 +1,6 @@
 package Sept.ex_20092024;
 
-public class Lab020 {
+public class Lab020_LeapYear {
     public static void main(String[] args) {
         int year = 2024;
         boolean flag = false;

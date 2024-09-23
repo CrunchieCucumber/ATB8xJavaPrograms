@@ -1,6 +1,6 @@
 package Sept.ex_20092024;
 
-public class Lab018 {
+public class Lab018_Triangle {
     public static void main(String[] args) {
         int side1=10;
         int side2=30;
