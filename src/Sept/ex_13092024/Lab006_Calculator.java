@@ -1,7 +1,7 @@
 package Sept.ex_13092024;
 
 //
-public class Lab006 {
+public class Lab006_Calculator {
     public static void main(String[] args) {
         double a=34;
         double b=10;
