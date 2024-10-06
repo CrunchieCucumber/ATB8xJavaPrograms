@@ -5,7 +5,7 @@ package Sept.ex_27092024;
 
 import java.util.Scanner;
 
-public class Lab037_CountDigits {
+public class Lab037_CountDigits1 {
     public static void main(String[] args) {
         int sum = 0;
         Scanner sc=new Scanner(System.in);

@@ -7,9 +7,9 @@ import java.util.Scanner;
 public class Lab035_FibonacciSequence {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the end limit of fibonacci series: ");
+        System.out.println("Up to how many digits you want the series printed? ");
         int limit = sc.nextInt();
-        int num1 = 0, num2=1, sum=0;
+        int num1=0, num2=1, sum=0;
         for(int i=0;i<limit;i++){
             System.out.print(num1 + " ");
             sum=num1+num2;
